@@ -21,8 +21,7 @@ h2{
     font: size 100px;
     font-weight:bolder;
     line-height: 1.5;
-    color: azure;
-
+    
 }
 
 .navbar{
@@ -102,6 +101,7 @@ p{
 #testimonials{
     text-align: center;
     background-color:#A6BB8D ;
+    color: azure;
 }
 
 .testimonial-image{
@@ -113,7 +113,7 @@ p{
 
 .carousel-item{
     padding: 7% 15%;
-
+    
 }
 
 
@@ -128,3 +128,12 @@ p{
     margin: 20% 20% 50%;
 }
 
+
+#pricing {
+    padding: 100px;
+    
+}
+
+.pricing-column{
+    padding: 3% 2%;
+}
